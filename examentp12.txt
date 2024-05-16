@@ -1,2 +1,6 @@
+ HEAD
 master branch est la branch de code source principale
 une partie de code source est sur la branch master
+
+branch_examen_12 est la branch de code source
+ branch_examen_12
